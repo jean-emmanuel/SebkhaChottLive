@@ -1,0 +1,3 @@
+[submodule "Gui"]
+	path = Gui
+	url = http://github.com/jean-emmanuel/oschtmlgui
